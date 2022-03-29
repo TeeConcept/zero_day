@@ -1,1 +1,1 @@
-my first commit
+This file is mandatory in projects
